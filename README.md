@@ -1,4 +1,4 @@
-# Projects
+# Evolution simulator
 Simple organism evolution simulator made using neural networks.
 Neural networks are optimised using an evolution genetic algorithm.
 Visualisation made using StdDraw library (I did not make that library).
