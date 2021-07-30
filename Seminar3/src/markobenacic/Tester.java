@@ -1,7 +1,7 @@
 package markobenacic;
 
 public class Tester {
-	//ZANEMARITI OVU KLASU TU SAM ISPROBAVAO FUNKCIJE
+	
 	public static void main(String[] args) {
 		
 		System.out.println(getAngle(10,50,460,450));
